@@ -192,10 +192,11 @@ img {
 }
 
 .perfil__img {
-  width: 700px;
+  width: 900px;
   position: absolute;
   justify-self: center;
   align-self: flex-end;
+  bottom: 3rem;
 }
 
 .perfil__data {
